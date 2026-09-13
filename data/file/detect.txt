@@ -1,0 +1,4 @@
+Инструменты определяющие расширение файла
+
+1. https://www.toolsley.com/file.html — определяет тип файла
+2. https://www.aconvert.com/analyze.html — определяет тип файла

@@ -1,0 +1,9 @@
+Поиск по домену с .onion
+
+1. darktracer.io — находит настоящий IP адрес
+2. https://github.com/enemy-submarine/pidrila — выявляет директории сайта
+
+
+Поиск через URL
+
+1. https://osint.party/api/onion/DOMAIN — найдет метаданные сайта, замените DOMAIN на адрес сайта без .onion

@@ -1,0 +1,77 @@
+Поиск по любому домену
+
+1. https://hunter.io/  — дает email адреса
+2. https://t.me/WhoisDomBot — узнайте базовую информацию о домене
+3. https://community.riskiq.com/  — найдет сертификаты, историю whois, трекеры, reverse DNS и многое другое
+4. https://github.com/guelfoweb/knock  — находит поддомены и FTP
+5. https://builtwith.com/ — технологический профиль сайта, взаимосвязи между сайтами
+6. https://urlscan.io/ — сервис для сканирования и анализа сайтов
+7. https://dnsdumpster.com/ — обнаруживает хосты связанные с доменом
+8. https://search.censys.io/ — находит какие серверы и устройства выставлены в сети
+9. https://virustotal.com/ — служба пассивного DNS, поиск под доменов, найдет whois и историю сертификатов SSL
+10. https://atsameip.intercode.ca/ — одинаковые IP у сайта, можно узнать под домены
+11. https://github.com/Nekmo/dirhunt  — поиск директорий сайта без брута
+12. https://github.com/OWASP/Amass  — сетевое картирование поверхностей атаки и обнаружение внешних ресурсов с использованием методов сбора информации с открытым исходным кодом и активных методов разведки
+13. https://github.com/s0md3v/Photon  — найдет на сайте файлы, секретные ключи, JS файлы, URL с параметрами
+14. https://dnslytics.com/reverse-analytics — вытаскивает трекеры из сайта
+15. https://domainwat.ch/ — найдет в Whois имя регистранта, адрес, номер телефона, адрес электронной почты из информации WHOIS и историю изменений
+16. https://github.com/Edu4rdSHL/findomain  — найдет под домены
+17. https://shodan.io/ — найдет IP адреса и сайты с упоминанием искомого сайта
+18. https://phonebook.cz/  — найдет email, под домены, директории сайта
+19. http://www.visualsitemapper.com/ — визуализация карты сайта одним графиком
+20. https://dorks.faisalahmed.me/ — составляет дорки для Google и Яндекс
+21. https://synapsint.com/ — хорошо ищет поддомены
+22. https://analyzeid.com/ — находит на странице идентификаторы аналитики и по ним ищет другие сайты
+23. https://github.com/devanshbatham/FavFreak  — находит все сайты схожим favicon
+24. https://completedns.com/dns-history/ — история DNS за двадцать лет
+25. https://github.com/enemy-submarine/pidrila  — находит директории сайта
+26. https://osint.sh/ — поддомены, история DNS, сканер NMAP и много другого
+27. https://mmhdan.herokuapp.com/ — вычислит хеш значка сайта и даст ссылки на ресурсы где можно найти похожие сайты с одинаковыми значками
+28. https://github.com/nixintel/o365chk/  — проверит наличие у сайта Microsoft Office365, выдаст email, облачное имя и ссылку для в хода в офис
+29. https://pagexray.fouanalytics.com/ — найдет к каким сайтам делаются запросы для трекинга и аналитики, делает скриншот сайта
+30. https://github.com/laramies/metagoofil  — найдет метаданные во всех документах на сайте
+31. https://www.email-format.com/i/search/ — даст email, дату их обнаружения и источник
+32. https://tools.whoisxmlapi.com/whois-history-search — найдет всю историю изменений whois домена
+33. https://www.link-assistant.com/seo-spyglass/free-backlink-checker-tool.html — найдет источники упоминания домена и их анализ
+34. https://talosintelligence.com/reputation_center/ — покажет сколько писем было отправлено с домена и его репутацию
+35. https://leak-lookup.com/search  — покажет на каких сайтах была утечка с искомым доменом
+36. https://app.netlas.io/  — поддомены, устройства, IP адреса, CVE и уязвимости
+37. https://www.domaincodex.com/search.php — выдает поддомены, whois, файлы и прочее
+38. http://t.me/flerke4n_bot — даст прямые ссылки на 50+ ресурсов где есть история Whois, IP, DNS, Nameserver, сертификаты, трекеры, похожие домены, контакты, архивы, дорки и прочее
+39. https://github.com/ksharinarayanan/SourceWolf  — ищет в исходном коде и скриптах сайта ссылки на соцсети и эндпоинты
+40. https://omnisint.io/ — найдет поддомены, регистрация без проверки
+41. https://pulsedive.com/ — найдет историю DNS, SSL и Whois, почту, технологии, регистратора домена, порты, угрозы, поддомены, почтовые сервера и прочее
+42. https://tenantresolution.pingcastle.com/ — покажет другие домены владельца сайта на основе Azure ID
+43. https://seckrd.com/subdomain-finder — достанет поддомены
+44. https://cavalier.hudsonrock.com/passwords — покажет число утекших паролей сайта и некоторые его директории
+
+
+Поиск через URL
+
+1. https://psbdmp.ws/api/search/domain/example.com — упоминания в утечках на Pastebin, замените example.com, сайт выдаст id страниц, подставь этот ID в ссылку pastebin.com/ID
+
+
+Архив
+
+1. https://timetravel.mementoweb.org/ — найдет сохраненные копии сайта среди 30 ресурсов для архивации
+2. https://web.archive.org/ — показывает сохранённые копии страниц, исходный код, все директории сайта, статистику и много другого
+3. https://cachedview.com/ — найдет копию сайта из кэша Google
+4. https://oldweb.today/ — найдет исторические версии сайтов, можно выбрать вид браузера и дату
+5. https://arquivo.pt/ — есть расширенный поиск по сайту
+6. https://archive.md/ — помимо HTML версии архивирует скриншот сайта
+7. https://trove.nla.gov.au/ — найдет копию страницы, откройте расширенный поиск и укажите домен, можно искать в архиве страниц по ключевому слову
+
+
+Парсеры
+
+1. https://github.com/jsvine/waybackpack  — загружает весь архив Wayback Machine
+2. https://archivarix.com/ — восстанавливает полную копию сайта из веб-архива на определенную дату, до 200 файлов бесплатно
+
+
+Инструменты
+
+1. https://followthatpage.com/  — следит за сайтом, сообщит о изменениях страницы на почту
+2. https://t.me/wabarc_bot — архивирует сайт в 4 веб-архивах, делает скриншот
+3. https://t.me/watch_bot — следит за изменениями на сайте, отправляет уведомление вам в Telegram
+4. https://visualping.io/ — следит за изменениями сайта, также можно выбрать область где следить, отправляется уведомление на почту
+

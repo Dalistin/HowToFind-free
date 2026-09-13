@@ -1,0 +1,5 @@
+Поиск по Email с доменами rambler.ru / lenta.ru / autorambler.ru / myrambler.ru / ro.ru / rambler.ua
+
+Поиск через URL
+
+1. https://avatars.rambler.ru/get/LOGIN@rambler.ru/default — картинка аккаунта, замените LOGIN@rambler.ru на email адрес
