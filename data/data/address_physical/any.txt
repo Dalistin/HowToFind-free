@@ -1,0 +1,71 @@
+Поиск по физическому адресу любой страны
+
+1. https://3wifi.stascorp.com/map — найдет wifi точки с паролями
+2. https://github.com/woj-ciech/kamerka  — найдет на карте камеры, устройства интернета вещей, принтеры, твитты, Instagram фото, Flickr и другие открытые устройства
+3. wigle.net — покажет SSID и BSSID Wi-Fi точки
+4. https://www.osintcombine.com/free-osint-tools/social-geo-lens — найдет Facebook, twitter, instagram, SnapChat страницы организаций
+5. trendsmap.com — карта трендов в Twitter
+6. https://www.omnisci.com/demos/tweetmap/ — покажет твитты на карте
+7. https://mattw.io/youtube-geofind/location — находит видео на YouTube
+8. windy.com — множество камер с функцией поиска по истории, есть карта
+9. opencellid.org — вышки сотовой связи, найдет MCC, MNC, LAC, CID
+10. https://www.strava.com/heatmap — сайт показывает где бегают спортсмены
+11. map.snapchat.com — найдет недавние видео из Snapchat
+12. https://www.doogal.co.uk/strava.php — данные из Strava, показывает имена пользователей
+13. https://www.udeuschle.de/panoramas/makepanoramas_en.htm — составит панораму гор
+14. whopostedwhat.com — находит фото в Instagram с фильтром по дате
+15. onemilliontweetmap.com — покажет твиты за последние сутки на карте
+16. https://github.com/sc1341/SnapMap-OSINT  — скачает все фото и видео из Snapchat в указанном на карте радиусе
+17. https://github.com/jkctech/Telegram-Trilateration  — показывает точное местоположение пользователей Telegram включивших функцию "люди рядом"
+18. https://www.flickr.com/map — найдет снимки пользователей на карте, выберите место поиска, нажмите "search the map" а потом "go"
+19. pastvu.com — исторические снимки места с 1826 по 2000 годы
+20. photo-map.ru  — найдет фото из VK, радиус поиска от 10 метров
+21. app.skylens.io  — найдет на карте фото Instagram, YouTube видео, твиты, фото из ВК, минимальный радиус поиска 1 км.
+22. http://openaltimetry.org/data/icesat2/ — показывает точный рельеф, подберите дату чтобы полоса точек попала на нужное место, выделите область "select region" и сервис даст точки отображающие выбранный рельеф
+23. demo.f4map.com — покажет здания любого города в 3D, данные из OpenStreetMap
+24. https://github.com/tejado/telegram-nearby-map  — показывает точное местоположение пользователей Telegram включивших функцию "люди рядом", их имена и фото аккаунта
+25. http://t.me/flerke4n_bot — даст прямые ссылки на 10 карт где есть спутниковые снимки, погода, таймлапс, исторические спутниковые снимки и прочее
+26. https://domophoto.ru/map.php — найдет фото зданий, их серию и номер, больше снимков в России и Украине
+27. birdhunt.co — найдет твитты рядом, создаст ссылку на Twitter, где введен поисковый запрос с координатами и заданным радиусом
+28. instahunt.co — отобразит фото из Instagram, скопируй полученный код и встать в поле на сайте чтобы увидеть результат
+31. etomesto.ru — найдет исторические топографические карты, укажите точку на карте и найдется нужная старая карта
+
+
+Спутниковые снимки
+
+1. wikimapia.org — спутниковые снимки Google, Yandex, Bing и Yahoo, есть фильтр зданий по году постройки, по категориям, обозначение объектов которых нету на других картах
+2. https://livingatlas.arcgis.com/wayback/ — покажет исторические снимки
+3. satellites.pro — есть карты Apple, MapBox, Yandex, Esri и Google
+4. https://apps.sentinel-hub.com/eo-browser/  — база почти ежедневных снимков со спутника, можно делать таймлапс
+5. zoom.earth — есть высококачественные изображения для этого выберите базовую карту, есть пожары, штормы, ветер и история этих данных по дате
+6. https://orbtwz.users.earthengine.app/view/csar-eye — найдет и отметит изменения на спутниковых снимках в указанную дату
+7. imagehunter.apollomapping.com — 64 датасета, фильтры по дате, качеству снимков, чтобы получить снимки выдели на карте область
+8. http://retromap.ru/closeby.php — найдет исторические, топографические карты и спутниковые снимки с 12 века по настоящее время
+9. map.openaerialmap.org — фото с дрона, ультравысокое качество картинки, до 3 см на пиксель, небольшое покрытие, использовать на ПК
+
+
+Видеонаблюдение
+
+1. windy.com — есть история записей
+2. https://world-cam.ru/world/ — камеры в реальном времени 
+3. https://cipher387.github.io/webcamcse/ — по названию местности найдёт камеры в реальном времени, ищет среди 10 сайтов с трансляциями
+
+
+Транспорт
+
+1. vesselfinder.com — покажет все судна на карте
+2. globe.adsbexchange.com — самолеты и вертолеты с историей передвижений
+
+
+Просмотр улиц
+
+1. http://www.google.com/maps/ — просмотр в 360 градусов почти во все странах
+2. https://www.mapillary.com/app/ — данные загружаются пользователями, не всегда есть обзор в 360 градусов
+3. http://kartaview.org/map — данные загружаются пользователями, нету панорам
+4. https://railcabrides.com/en/mapsearch — видео из кабины поезда, нет крупных городов
+5. http://360cities.net/map — панорамы
+
+
+Инструменты
+
+1. app.measuremaponline.com  — вычисляет площадь и периметр нужной области на карте

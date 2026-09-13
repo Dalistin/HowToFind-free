@@ -1,0 +1,3 @@
+Поиск по физическому адресу Кипра
+
+1. http://eservices.dls.moi.gov.cy/#/national/geoportalmapviewer — кадастровая карта

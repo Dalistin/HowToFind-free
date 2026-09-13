@@ -1,0 +1,4 @@
+Поиск по физическому адресу на территории Эстонии
+
+1. https://www.teatmik.ee/ru/advancedsearch — найдет компании
+2. https://xgis.maaamet.ee/xgis2/page/app/maainfo — кадастровая карта
