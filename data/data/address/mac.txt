@@ -1,9 +1,0 @@
-Поиск по MAC адресу
-
-1. https://alexell.ru/network/mac-geo/ — тоже покажет местоположение
-2. http://wigle.net/search  — находит Wi-Fi точку, ее физический адрес и название
-
-
-Поиск через URL
-
-1. https://api.mylnikov.org/geolocation/wifi?v=1.1&data=open&bssid=00:CC:00:CC:00:CC — найдет координаты точки на карте, замените 00:CC:00:CC:00:CC на MAC-адрес
