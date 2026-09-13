@@ -1,0 +1,19 @@
+Поиск по физическому адресу Австралии
+
+1. https://placenames.fsdf.org.au/index.html — карта топонимов, название природного объекта на Земле или объекта, созданного человеком на Земле
+2. http://www.pedestrian.melbourne.vic.gov.au/ — количество пешеходов в городе Мельбурн, есть история
+3. personlookup.com.au — дает ФИО и номер телефона
+4. https://www.planningportal.nsw.gov.au/spatialviewer/#/find-a-property/address — кадастровая карта, есть номера лотов домов, данные о высоте зданий
+5. www.onthehouse.com.au — объявления о продаже недвижимости и других вещей
+
+
+Видеонаблюдение
+
+1. webcamsydney.com — онлайн камера гавани Сиднея, нет истории
+2. https://www.thesebelquaywestsydney.com.au/webcam.html — залив Сиднея, с другого ракурса, есть просмотр истории
+3. https://www.insecam.org/en/bycountry/AU/ — IP камеры, нету точного указания расположения камеры, только название населенного пункта
+
+
+Спутниковые снимки
+
+1. https://app.actmapi.act.gov.au/actmapi/index.html?viewer=hp — качественные снимки

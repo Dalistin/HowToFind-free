@@ -1,0 +1,9 @@
+Поиск по физическому адресу Финляндии
+
+1. https://www.fonecta.fi/haku/#/ — найдет компании и их контакты
+2. https://asiointi.maanmittauslaitos.fi/karttapaikka/ — кадастровая карта
+
+
+Транспорт
+
+1. https://junatkartalla.vr.fi/?lang=fi-FI&follow=11 — показывает поезда на карте в реальном времени
