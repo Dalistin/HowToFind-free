@@ -1,0 +1,3 @@
+Поиск по аккаунту Flickr
+
+1. https://www.webfx.com/tools/idgettr/ — находит ID аккаунта

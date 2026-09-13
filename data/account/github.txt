@@ -1,0 +1,35 @@
+Для аккаунта Github
+
+1. https://cipher387.github.io/quickcacheandarchivesearch/ — покажет архивированную страницу, даст 20+ прямых ссылок на сайты веб архивы, поиск по ссылке на аккаунт
+2. https://github.com/soxoj/socid_extractor  — найдет user ID
+3. https://github.com/soxoj/gitcolombo  — извлекает информацию о людях из репозиториев git
+4. https://thedatapack.com/tools/find-github-user-email/ — находит email адреса
+5. https://chrome.google.com/webstore/detail/amazinghiring/didkfdopbffjkpolefhpcjkohcpalicd — расширение для браузера Chrome, дает профили в Facebook, LinkedIn, Gravatar и прочих
+6. https://repostimeline.nazifbara.com/ — покажет временную шкалу пользователя с изменениями: фотки, новые репозитории 
+7. emailaddress.github.io — найдет email
+
+
+Парсеры
+
+1. https://phantombuster.com/phantombuster?category=github  — скачает всю публичную информацию аккаунта
+
+
+Поиск через URL
+
+1. https://api.github.com/users/USERNAME/events/public — покажет почту на которую зарегистрирован аккаунт, замените USERNAME на юзернейм аккаунта. После загрузки страницы нажмите Ctrl+F и введите email
+
+
+Поиск по репозиторию на GitHub
+
+
+Дополнительные методы
+
+1. Найти кто первый постпвил звёздочку в репозитории
+
+https://gist.github.com/nil0x42/656ccf98c00c99277ca7826bf1c43022
+https://developer.github.com/v4/explorer и войдите в свой аккаунт
+[3] Вставьте код из скрипта который вы скопировали вместо того что есть в первом поле
+[4] Замените sherlock-project на имя владельца репозитория. Замените sherlock на имя репозитория
+[5] Нажмите на треугольник начать
+
+Вы получите список пользователей кто первый лайкнул репозиторий
