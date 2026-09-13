@@ -1,0 +1,44 @@
+Поиск по номеру телефона любой страны
+
+1. https://emobiletracker.com/ — определят город, оператора, иногда имя
+2. https://t.me/Vbib_bot  — находит аккаунт Facebook и как записан владелец номера в GetContact
+3. https://smsc.ru/testhlr/ — статус активности телефона, в сети или нет, делает hlr запрос
+4. https://github.com/itds-consulting/android-silent-ping-sms/releases  — приложение покажет телефон в сети или нет, отправляет невидимое СМС для определения статуса
+5. https://tools.whoisxmlapi.com/reverse-whois-search — выявляет домены веб-сайтов зарегистрированные на номер телефона
+6. https://sync.me/  — покажет имя из контактов и уровень спама
+7. https://leak-lookup.com/search  — покажет на каких сайтах была утечка с искомым номером телефона
+8. https://play.google.com/store/apps/details?id=com.numbuster.android  — Android приложение покажет как записан номер телефона в контактах
+9. https://revealname.com/ — выдаст имя владельца телефона, название оператора связи
+10. https://truecaller.com/  — покажет как записан номер телефона в контактах
+11. https://t.me/LeakCheck1_Bot — покажет на каком сайте утёк телефон, бот принимает телефон только в виде цифр, без знаков плюс и т.п.
+12. https://whoseno.com/ — отобразит имя
+13. https://intelx.io/ — найдёт упоминание номера телефона в утечках, даст имя файла и источника, вводите номер телефона во всех возможных форматах, с плюсом и без, с дефисом или скобками, и без них
+14. https://x-ray.contact/platform/search/  — находит имена, логины, аккаунты, почты, фотографии, адреса и прочее, вход по IP адресу России запрещён, используй VPN
+15. https://osint.industries/  — находит профили в 10+ соц сетях и прочее
+16. https://t.me/TrueCalleRobot — узнает имя и почту
+17. https://t.me/unamer_search_bot — знает к каким аккаунтам телеграм был привязан номер телефона
+18. https://t.me/Flerke9n_bot?start=_ref_74U903yvB_rWizHr2Yy — находит TikTok, Instagram, Telegram, OK, имена, почту и прочее
+19. https://t.me/HGB94836385_bot — находит профили, адреса, имена и много полезного 
+20. https://noimosiny.com/  — найдет профиль в TikTok, Aliexpress, eBay и еще 30+ аккаунтов, можно попросить бесплатный поиск
+21. http://t.me/toktoktikitok_bot — найдет профиль в TikTok, находит редко но метко
+22. http://t.me/flerke4n_bot — находит город, первую букву улицы, номера дома или квартиры, аккаунты и прочее, умеет искать в других ботах
+
+
+Прочее
+
+1. https://globfone.com/call-phone — бесплатные анонимные звонки на любой номер телефона  
+2. https://t.me/FreeSafeCalls_Bot — один бесплатный и анонимный звонок, можно задавать номер звонящего  
+
+
+Восстановление доступа
+
+1. https://id.vk.com/about/id — даст модель телефона, часть почты, уведомляет  
+2. https://help.steampowered.com/ru/wizard/HelpWithLoginInfo/ — даст часть почты  
+3. https://twitter.com/account/begin_password_reset — даст часть почты  
+4. https://account.xiaomi.com/fe/service/forgetPassword — даст часть почты  
+5. https://id8.cloud.huawei.com/AMW/portal/appealSelf/applyChangeAccount.html — даст часть почты, второго телефона  
+6. https://id.realme.com/v2/find_password.html — даст часть почты, уведомляет  
+7. https://accounts.oneplus.com/v2/find_password.html — даст часть почты, уведомляет  
+8. https://www.facebook.com/login/identify?ctx=recover — даст часть почты, другого телефона, имени  
+9. https://account.live.com/acsr — даст часть почты, укажите свою почту и получите письмо  
+

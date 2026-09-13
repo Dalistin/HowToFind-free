@@ -1,0 +1,4 @@
+Поиск по номеру Нидерландов
+
+1. http://crdc.be/crdcNLI/BrowserDefault.aspx?tabid=265 — найдет текущего оператора связи
+2. https://www.acm.nl/nl/onderwerpen/telecommunicatie/telefoonnummers/nummers-doorzoeken — дает название компании владеющая номером

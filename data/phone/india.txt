@@ -1,0 +1,9 @@
+Поиск по номеру телефона Индии
+
+1. http://www.indiaonapage.com/mobilenumbertrace — покажет оператора связи и возможный город
+
+
+Восстановление доступа
+
+1. http://cashify.in/ — даст часть почты в http запросе
+2. https://cirrus.trade/onboarding — даст почту

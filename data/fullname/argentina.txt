@@ -1,0 +1,3 @@
+Поиск по ФИО гражданина Аргентины
+
+1. https://www.cij.gov.ar/buscador-de-fallos.html — найдет судебные дела
