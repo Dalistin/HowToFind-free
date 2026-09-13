@@ -1,0 +1,12 @@
+Расширения для браузера
+
+1. https://chrome.google.com/webstore/detail/mitaka/bfjbejmeoibbdpfdbmbacmefcbannnbg — поиск и сканирование сайта через контекстное меню
+2. https://chrome.google.com/webstore/detail/ip-whois-flags-chrome-web/kmdfbacgombndnllogoijhnggalgmkon — whois, число посетителей сайта, отзывы о репутации, проверка на вирусы, рейтинг Alexa
+3. https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak — быстро сохраняйте веб-страницы в интернет архиве и просматривайте архив текущей
+4. https://chrome.google.com/webstore/detail/sputnik/manapjdamopgbpimgojkccikaabhmocd — быстрый и простой поиск IP-адресов, доменов, файловых хешей и URL-адресов
+5. https://www.invid-project.eu/tools-and-services/invid-verification-plugin/ — анализ видео на хостингах
+6. https://chrome.google.com/webstore/detail/ip-dns-security-tools-hac/phjkepckmcnjohilmbjlcoblenhgpjmo — Быстрый доступ к IP, DNS и сетевым инструментам. Проверьте DNS, Whois, ASN, Traceroute, Ping и многое другое. Инструменты для технических операторов.
+7. https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf — реверс поиск фото по 5 сайтам
+8. https://chrome.google.com/webstore/detail/web-archives/hkligngkgcpcolhcnkgccglchdafcnao — заархивированные и кэшированные версии веб-страниц в более чем 10 поисковых системах, таких как Wayback Machine, ArchiveIs и Google
+9. https://chrome.google.com/webstore/detail/map-switcher/fanpjcbgdinjeknjikpfnldfpnnpkelb — быстрое переключение между онлайн-картографическими сервисами
+10. https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah — парсит любую страницу в CSV и Excel
