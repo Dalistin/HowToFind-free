@@ -1,0 +1,3 @@
+Поиск по SSID / ESSID / Имя точки доступа
+
+1. http://wigle.net/search  — находит Wi-Fi точку, ее физический адрес и BSSID

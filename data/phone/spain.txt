@@ -1,0 +1,11 @@
+Поиск по номеру телефона Испании
+
+1. https://numeracionyoperadores.cnmc.es/portabilidad/movil — найдет название оператора связи
+2. https://listaspam.com/ — найдёт жалобы от пользователей, рейтинг доверия
+
+
+Дополнительные методы
+
+Найти часть имени владельца телефона
+
+https://www.bullfrag.com/are-there-differences-between-making-a-bizum-and-a-bank-transfer/ в приложении испанского банка

@@ -1,0 +1,22 @@
+Поиск по номеру телефона США
+
+1. https://zabasearch.com/ — найдет имя, адрес, и многое другое
+2. https://truecaller.com/ — телефонная книга, найдет имя и оператора телефона
+3. https://www.cyberbackgroundchecks.com/phone — найдет все данные гражданина США, вход на сайт разрешен только с IP адреса США
+4. https://www.melissa.com/v2/lookups/personator — найдет ФИО, дату рождения, адрес проживания, этнос и прочее
+5. https://oldphonebook.com/ — найдет адрес и ФИО, записи 20-летней давности
+6. https://anywho.com/ — найдет адрес где проживает владелец телефона
+7. https://spydialer.com/ — найдет имя владельца телефона, город и штат проживания
+8. https://smartbackgroundchecks.com/ — дает адреса, телефоны, биографию, семью, недвижимость, образование, почту, и прочее
+9. https://reversephonecheck.com/ — находит адрес, фамилию и часть имени
+10. https://cash.app/  — найдет фото профиля, имя, никнейм, после регистрации, сделай попытку перевода по номеру телефона, используй VPN
+11. https://fastpeoplesearch.com/ — выдаст полное имя, возраст, текущий домашний адрес, прошлые адреса, псевдонимы, родственников, предыдущие владельцы телефона и прочее, сайт не работает из России, нужен VPN
+12. https://numlookup.com/ — найдет имя
+13. https://calleridtest.com/  — ищет имя владельца телефона из базы CNAM, город и тип связи, работает только с VPN из США
+
+
+
+Восстановление доступа
+
+1. https://netsecure.adp.com/ilink/pub/smsess/v3/forgot/theme.jsp — покажет часть email или номера телефона, название компании, ID аккаунта, необходимо ввести полное имя
+2. https://id.venmo.com/signin?country.x=US&locale.x=en&ctxId=AAG7qIoPmC3hZ6tIsKuAFk3Z4iv5yLaI_j3l4PqUHALIpMo9IzJgaMFEHdK2G1-S1-3KiymXO_rKQa8eLP0E_jI=#/password-recovery — даст часть почты, номера карты
