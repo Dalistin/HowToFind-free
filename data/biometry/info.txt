@@ -1,0 +1,26 @@
+Поиск по фото с лицом
+
+1. https://search4faces.com/ — найдет профиль VK, OK, TikTok и Clubhouse, не точен
+2. https://vk.watch/ — находит аккаунты ВКонтакте с похожими лицами, не точен, дождитесь загрузки фото
+3. https://pimeyes.com/ — показывает фото с похожими лицами и клонов, иногда сайт работает только через VPN
+4. https://camgirlfinder.net/search — найдет веб-кам моделей, их ник и профиль
+5. https://facecheck.id/ — сыщет лицо в социальных сетях, дает ссылку на источники, среднее качество распознавания лица
+6. https://geometria.ru/facesearch/ — находит фото из баров и клубов
+7. https://t.me/X631NT_bot — найдет гражданина Украины, выдает его телефоны, почты, адреса, документы, и прочее, бесплатно покажет только часть данных
+8. https://t.me/N644BV_bot — ищет фото в профилях ВК
+9. https://faceseek.online/ — ищет фото на сайтах, даст другие фото человека
+
+
+Инструменты
+
+1. https://www.faceplusplus.com/face-comparing/ — сравнит два лица и покажет уровень схожести, открывать в версии для ПК
+2. https://play.google.com/store/apps/details?id=tk.silviomarano.imageanalysistoolset — сравнит два лица и покажет уровень схожести, в приложении раздел Face insight, после пункт compare в списке
+3. https://mxface.ai/face-comparing#Face_Detection_demo_section — сравнит два лица и покажет уровень схожести
+4. https://t.me/DeepPaintBot — повышает качество фото лица
+5. https://huggingface.co/spaces/sczhou/CodeFormer — улучшает фото с лицом
+6. https://app.remini.ai/ — сделает фото лица четче
+
+
+По видео с лицом
+
+1. https://scanner.deepware.ai/ — выявляет дипфейк

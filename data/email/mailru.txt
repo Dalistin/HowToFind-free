@@ -1,0 +1,6 @@
+Поиск по Email от Mail.ru / inbox.ru / bk.ru / list.ru
+
+Поиск через URL
+
+1. https://love.mail.ru/ru/LOGIN — профиль на сайте знакомств, замените LOGIN на email адрес без @mail.ru
+2. https://account.mail.ru/api/v1/user/password/restore?email=LOGIN@mail.ru — выдаст часть номера телефона, замените LOGIN на email адрес без @mail.ru, попробуйте поменять @mail.ru на @list.ru, @bk.ru, @inbox.ru
