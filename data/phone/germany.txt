@@ -1,4 +1,0 @@
-Поиск по номеру телефона Германии
-
-1. https://www.herold.at/telefonbuch/ — найдет ФИО и адрес владельца 
-2. https://www.telefonabc.at/ — выдаст ФИО

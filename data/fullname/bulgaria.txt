@@ -1,5 +1,0 @@
-Поиск по ФИО гражданина Болгарии
-
-1. https://tva-recherche.lu/recherche/ — найдет номер НДС, адрес и многое другое
-2. https://www.vivacom.bg/bg/residential/polezni-syveti/ukazatel/telefonni-nomera — покажет адрес и телефон, необходимо знать город
-3. ukazatelite.com — реестр юрлиц, найдет карточку с контактами, адресами, и прочее

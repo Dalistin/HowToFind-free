@@ -1,9 +1,0 @@
-Для аккаунта Bitbucket
-
-1. https://github.com/soxoj/socid_extractor  — найдет user ID, и дату создания аккаунта
-2. https://cipher387.github.io/quickcacheandarchivesearch/ — покажет архивированную страницу, даст 20+ прямых ссылок на сайты веб архивы, поиск по ссылке на аккаунт
-
-
-Поиск через URL
-
-1. https://bitbucket.org/!api/2.0/repositories/USERNAME/REPO-NAME/refs/branches/master — покажет email адрес, замените USERNAME на имя пользователя, а REPO-NAME на имя репозитория который создал этот пользователь

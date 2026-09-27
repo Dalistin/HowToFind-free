@@ -1,6 +1,0 @@
-Поиск по аккаунту на Pastebin
-
-
-Парсеры
-
-1. https://github.com/bbbbbrie/pastebin-bisque  — скачает все pastes пользователя

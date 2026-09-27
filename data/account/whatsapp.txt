@@ -1,3 +1,0 @@
-Для аккаунта WhatsApp
-
-1. https://github.com/jasperan/whatsapp-osint  — программа, отслеживает онлайн активность профиля

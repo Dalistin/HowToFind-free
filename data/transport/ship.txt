@@ -1,9 +1,0 @@
-Поиск по имени судна
-
-1. marinetraffic.com — найдет позывной, MMSI, IMO, рейсы и историю имени судна
-2. http://maritime-connector.com/ship/ — найдет базовую информацию и данные о владельце
-3. www.vesselfinder.com — найдет судно на карте в реальном времени
-4. sanctionssearch.ofac.treas.gov — поиск в санкционном списке США
-5. https://data.ntsb.gov/carol-main-public/query-builder — информация о несчастных случаях, крушениях и расследований, поиск во всех странах
-6. https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations/search — для судов Канады найдет историю владельцев, их имена и адреса, характеристики судна, его номера и прочее
-7. https://www.inmarsat.com/en/support-and-info/support/ships-directory.html — найдет контактный номер телефона

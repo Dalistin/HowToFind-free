@@ -1,6 +1,0 @@
-Для файла формата видео
-
-1. videoindexer.ai  — сохраняет лица, слова, темы, и эмблемы из видео
-2. app.remini.ai — сделает видео четче
-3. http://t.me/flerke4n_bot — можно отправить как файл и посмотреть метаданные и EXIF
-4. https://www.metadata2go.com/view-metadata — достает метаданные и EXIF

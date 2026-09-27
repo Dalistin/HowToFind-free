@@ -1,5 +1,0 @@
-Поиск по Email адресу от Web.de
-
-Восстановление доступа
-
-1. https://passwort.web.de/passwordrecovery/

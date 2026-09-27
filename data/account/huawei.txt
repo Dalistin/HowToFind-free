@@ -1,9 +1,0 @@
-Поиск по аккаунту Huawei
-
-Тут пока ничего нет
-
-
-Восстановление доступа
-
-1. https://uniportal.huawei.com/uniportal/modifyInfo.do?actionFlag=toGetPassword
-2. https://id8.cloud.huawei.com/AMW/portal/appealSelf/applyChangeAccount.html

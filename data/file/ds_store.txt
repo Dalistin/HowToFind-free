@@ -1,3 +1,0 @@
-Для файла формата DS_STORE
-
-1. https://intelx.io/tools?tab=filetool — узнайте имена файлов скрытые в файле

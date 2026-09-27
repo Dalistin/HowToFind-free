@@ -1,4 +1,0 @@
-Для файла формата HAR
-
-1. https://stevesie.com/har-file-web-scraper — покажет содержимое файла в удобном виде
-2. https://toolbox.googleapps.com/apps/har_analyzer/ — покажет содержимое файла в удобном виде

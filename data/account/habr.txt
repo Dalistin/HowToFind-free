@@ -1,4 +1,0 @@
-Поиск по аккаунту habr
-
-1. https://github.com/soxoj/socid_extractor  — найдет user ID
-2. https://cipher387.github.io/quickcacheandarchivesearch/ — покажет архивированную страницу, даст 20+ прямых ссылок на сайты веб архивы, поиск по ссылке на аккаунт

@@ -1,6 +1,0 @@
-Поиск по ФИО гражданина Бразилии
-
-1. https://sei.df.gov.br/sei/modulos/pesquisa/md_pesq_processo_pesquisar.php?acao_externa=protocolo_pesquisar&acao_origem_externa=protocolo_pesquisar&id_orgao_acesso_externo=0 — база юридических документов
-2. escavador.com — найдет резюме и судебные иски
-3. https://www.portaltransparencia.gov.br/pessoa-fisica/busca/lista?pagina=1&tamanhoPagina=10 — найдет город проживания, номер CPF, суммы кредита
-4. falecidosnobrasil.org.br — реестр смертей, найдет дату смерти, имя матери, место смерти
