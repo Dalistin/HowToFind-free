@@ -1,0 +1,22 @@
+Поиск по никнейму
+
+1. https://github.com/soxoj/maigret — найдет аккаунты с таким же ником среди 3000+ сайтов  
+2. https://namecheckup.com/ — найдет искомый ник на сайтах  
+3. https://instantusername.com/ — найдет искомый ник на сайтах  
+4. https://suip.biz/ru/?act=sherlock — найдет искомый ник на 300+ сайтах, работает очень медленно, дождитесь ответа  
+5. https://namechk.com/ — найдет искомый ник на сайтах и в доменах  
+6. http://github.com/sherlock-project/sherlock — найдет искомый ник на сайтах  
+7. https://whatsmyname.app/ — найдет искомый ник на сайтах  
+8. https://boardreader.com/ — найдет искомый ник на форумах  
+9. http://www.yasni.com/ — находит упоминание ника в Google и прочих поисковиках  
+10. https://social-searcher.com/ — найдет упоминания в соц. сетях и на сайтах  
+11. https://socialmention.com/ — найдет упоминания ника  
+12. https://github.com/sharsil/mailcat  — перебирает почтовые сервисы чтобы найти действительные email адреса  
+13. https://leak-lookup.com/search  — покажет на каких сайтах была утечка с искомым ником  
+14. https://github.com/thewhiteh4t/nexfil  — найдет аккаунты с идентичным ником среди 350 медиа платформ, можно отправить крупный список ников  
+15. http://analyzeid.com/username/ — найдет аккаунты с идентичным ником среди 100 сайтов, из профилей выведет все имена, страны, и даты создания в один список  
+16. https://github.com/soxoj/marple  — ищет в 10+ поисковых системах аккаунты с похожим ником  
+17. https://rapidapi.com/hailbytes-hailbytes-default/api/social-scanner/  — найдет аккаунты с идентичным ником среди 900+ платформ, после регистрации введи ник в поле username и нажми Test Endpoint  
+18. https://github.com/piaolin/DetectDee/  — найдет профили в китайских онлайн серверах
+19. https://breach.vip/ — в утечках найдет почту, пароли, ip и прочее, нужен VPN
+20. http://t.me/flerke4n_bot — проверит ник в утечках, еще ищет в других ботах  

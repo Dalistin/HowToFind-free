@@ -1,0 +1,9 @@
+Поиск по ФИО гражданина Канады
+
+1. https://justice.gov.bc.ca/cso/esearch/civil/partySearch.do — находит судебные дела
+2. https://www.canada411.ca/search/ — возраст, номер телефона, адрнс и другое
+3. https://www.ancestry.com/search/collections/60525/ — найдет когда умер и где захоронен, есть поиск в реестре браков и рождений
+4. https://wwwapps.tc.gc.ca/Saf-Sec-Sur/4/vrqs-srib/eng/vessel-registrations/search — найдет судно, его статистику, предыдущих владельцев, их адрес
+5. openpaymentsdata.cms.gov — платежи медицинских работников, найдет статистику по переводам, покажет финансирование, инвестиции, платы за исследования, компании, осуществляющие платеж
+6. https://justice.gov.bc.ca/cso/esearch/criminal/partySearchNew.do — ищет в реестре преступников, находит документы, дату рождения и прочее
+7. https://www.canadafinder.ca/searchnumber.php — даст телефон, адрес регистрации

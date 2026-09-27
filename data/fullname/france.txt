@@ -1,0 +1,8 @@
+Поиск по ФИО гражданина Франции
+
+1. https://dirigeants.bfmtv.com/recherche/ — найдет дату рождения, мандаты и бизнес
+2. https://tva-recherche.lu/recherche/ — найдет номер НДС, адрес и многое другое
+3. http://copainsdavant.linternaute.com/s/?advsrch — найдет школу, фото, друзей, место рождения
+4. https://www.pagesjaunes.fr/pagesblanches/ — найдет номер телефона и адрес проживания
+5. www.deces-en-france.fr — база смертей, найдет дату, место рождения и смерти
+6. https://francais-a-londres.org/u — найдет ник, фото, адреса квартир аренды и прочее

@@ -1,0 +1,9 @@
+Поиск по ФИО гражданина Австралии
+
+1. personlookup.com.au — найдет адрес, телефон и соседей
+2. https://www.apps09.revenue.nsw.gov.au/erevenue/ucm/ucm_search.php — база невостребованных денег Нового Южного Уэльса, дает адрес проживания
+3. https://form.act.gov.au/smartforms/servlet/SmartForm.html?formCode=1219 — база невостребованных денег ACT, дает адрес проживания
+4. https://www.pt.qld.gov.au/other-services/unclaimed-money/search-unclaimed-money/— база невостребованных денег Квинсленда, дает адрес проживания
+5. https://unclaimedmonies.treasury.wa.gov.au/ums/ — база невостребованных денег Западной Австралии, дает адрес проживания
+6. https://www.treasury.sa.gov.au/Our-services/unclaimed-money/search-for-unclaimed-money — база невостребованных денег Южной Австралии, дает адрес проживания
+7. https://www.ancestry.com/search/collections/60525/ — найдет когда умер и где захоронен, есть поиск в реестре браков и рождений

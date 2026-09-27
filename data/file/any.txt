@@ -1,0 +1,13 @@
+Для файла любого расширения
+
+1. https://sourceforge.net/projects/astrogrep/files/latest/download  — поможет искать в огромных файлах, для больших баз, на Windows, удобный интерфейс
+2. http://dngrep.github.io/  — дает поиск в файлах любого размера на Windows, удобный интерфейс
+3. https://play.google.com/store/apps/details?id=jp.sblo.pandora.aGrep  — поможет искать в огромных файлах, для больших баз, на Android
+4. Virustotal.com — проверит на вирусы, альтернативные имена, рейтинг файла, поведение, связи с другими файлами
+
+
+Метаданные
+
+1. get-metadata.com — извлекает метаданные
+2. exiftool.org — программа для чтения, записи и редактирования метаинформации
+3. https://play.google.com/store/apps/details?id=net.mediaarea.mediainfo  — приложение на Android, достанет EXIF и метаданные почти любого файла

@@ -1,0 +1,3 @@
+Поиск по ФИО гражданина Новой Зеландии
+
+1. https://app.companiesoffice.govt.nz/companies/app/ui/pages/individual/search? — найдет компании, адрес места жительства

@@ -1,0 +1,7 @@
+Поиск по ФИО гражданина Чехии
+
+1. https://or.justice.cz/ias/ui/rejstrik-$osoba?p%3A%3Asubmit=x&.%2Frejstrik-%24osoba=&prijmeni=Ivanov&jmeno=&narozeni=&obec=&angazma=&soud=&polozek=50&jenPlatne=VSECHNY — поиск в государственном реестре вовлеченных физических лиц, найдет дату рождения, адрес, ICQ, организации, сборник документов
+2. https://tva-recherche.lu/recherche/ — найдет номер НДС, адрес и многое другое
+3. https://e-justice.europa.eu/contentPresentation.do?plang=en&idTaxonomy=246&m=1 — поиск в базе должников, найдет идентификатор случая, идентификационный номер компании, дату рождения, персональный идентификационный номер, адрес и статус дела
+4. seznam.1188.cz — найдет адрес и телефон
+5. https://isir.justice.cz/isir/common/index.do — поиск в базе должников

@@ -1,0 +1,5 @@
+Поиск по ФИО гражданина Индии
+
+1. indianfinders.com — найдет возраст и город проживания
+2. http://www.contactofindia.com/index.php — найдет город и название компании которой владеет гражданин
+3. https://www.knowyourgst.com/gst-number-search/by-name-pan/ — найдет полное имя, компанию, номер GST, PAN и дату регистрации бизнеса 

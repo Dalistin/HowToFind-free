@@ -1,0 +1,7 @@
+Поиск по ФИО гражданина Швейцарии
+
+1. https://www.moneyhouse.ch/de/search?activeMandates=true&tab=persons — поиск в торговом реестре, найдет владения компаниями, город проживания
+2. https://tva-recherche.lu/recherche/ — найдет номер НДС, адрес и многое другое
+3. https://ti.chregister.ch/cr-portal/suche/suche.xhtml — найдет организации принадлежащие этому человеку
+4. www.northdata.com — найдет названия компаний с которыми связано ФИО
+5. https://www.local.ch/en/tel — поиск в реестре бизнесов, найдет сайт, адрес, телефон, фото
