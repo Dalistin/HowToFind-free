@@ -30,16 +30,16 @@ for noisy in ("httpx", "telegram", "httpcore"):
     logging.getLogger(noisy).setLevel(logging.WARNING)
 
 # ==== ТОКЕН ====
-TOKEN = os.getenv("BOT_TOKEN", "8847391443:AAENZR4_-pprfvZ76IMTJt0DhOaGL533v3k")
+TOKEN = os.getenv("BOT_TOKEN", "1234567890:AAAAAA_-AAAAAAAAAAAAAAAAAAAAAAAAA")
 
 # ==== ПОДПИСКА ====
 CHANNELS = [
-    {"id": "@wpftg", "link": "https://t.me/wpftg", "name": "Канал #1"},
-    {"id": "@HowToFindWPF", "link": "https://t.me/HowToFindWPF", "name": "Канал #2"},
+    {"id": "@Channel Username", "link": "https://t.me/link", "name": "Канал #1"},
+    {"id": "@Channel Username", "link": "https://t.me/link", "name": "Канал #2"},
 ]
 
 # ==== АДМИНЫ ====
-ADMIN_IDS = {8435624867, 7676128040, 676376840}
+ADMIN_IDS = {1234567890, 1234567890, 1234567890}
 
 # ==== ПУТИ ====
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -54,7 +54,7 @@ SUB_CACHE_TTL = 60.0
 
 # ==== БАЗЫ ДАННЫХ (оплата звёздами) ====
 STARS_PRICE = 50
-DB_LINK = "https://t.me/+K77GRMo-nAFmOGIy"   # ← ЗАМЕНИ НА СВОЮ ССЫЛКУ
+DB_LINK = "https://t.me/Username"   # ← ЗАМЕНИ НА СВОЮ ССЫЛКУ
 DB_PAYLOAD = "db_access_v1"
 
 
