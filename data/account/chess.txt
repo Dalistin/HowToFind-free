@@ -1,0 +1,6 @@
+Поиск по аккаунту Chess.com
+
+
+Через URL
+
+1. https://www.chess.com/callback/recover-password-data/USERNAME — найдет часть почты аккаунта, в ссылке замените USERNAME

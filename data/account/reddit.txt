@@ -1,0 +1,27 @@
+Поиск по аккаунту на Reddit
+
+1. https://atomiks.github.io/reddit-user-analyser/ — анализатор аккаунта
+2. https://cybdetective.com/quickcacheandarhivesearch.html — покажет архивированную страницу, даст 20+ прямых ссылок на сайты веб архивы, поиск по ссылке на аккаунт
+3. https://github.com/soxoj/socid_extractor  — найдет user ID акаунта
+4. https://redditcommentsearch.com/ — найдет все комментарии пользователя
+5. https://search.pullpush.io/ — покажет почти все удаленные посты и комментарии пользователя
+6. https://redective.com/ — статистика аккаунта, частые слова, сабредиты и время активности профиля
+7. https://redditmetis.com/ — анализ сообщений профиля, интересы, пол, статистика сообщений и прочее
+8. https://r00m101.com/ — ИИ анализ, даст интересы, пол, уровень дохода, хобби и прочее
+9. https://redditrace.com/  — ИИ анализ, даст интересы, пол, город, возраст и прочее
+
+
+Поисковики
+
+1. https://search.pullpush.io/ — поиск во всех комментариях и постах пользователя, в том числе удаленных, есть фильтры по дате
+
+
+Парсеры
+
+1. https://apify.com/trudax/reddit-scraper — скачает посты, комментарии, пользователей
+2. https://redditdownloader.github.io/ — скачает посты, медиа пользователя
+
+
+Поиск через URL
+
+1. https://pholder.com/u/USERNAME — сохраненные посты аккаунта, замените USERNAME

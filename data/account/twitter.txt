@@ -1,0 +1,48 @@
+Поиск по аккаунту Twitter
+
+1. https://tweeterid.com/ — по адресу аккаунта найдет ID аккаунта
+2. https://keyhole.co/  — анализ аккаунта, при регистрации нет проверок по email и телефону, вводите любые данные, 7 дней бесплатно
+3. https://tweettopicexplorer.neoformix.com/ — статистика наиболее употребляемых слов из твиттов пользователя
+4. https://twitteraudit.com/  — покажет количество настоящих и фальшивых подписчиков аккаунта
+5. https://cybdetective.com/quickcacheandarhivesearch.html — покажет архивированную страницу, даст 20+ прямых ссылок на сайты веб архивы, поиск по ссылке на аккаунт
+6. https://twiangulate.com/search/  — поиск общих подписчиков и подписок между двумя аккаунтами, а также сравнит их охват по подписчикам
+7. https://app.element.io/#/home  — найдет сохранённую копию аккаунта по ID, это имя и аватар, после регистрации, нажми на +, и выбери "начать новый чат", введи id в поиск
+8. https://tinfoleak.com/ — найдет в твитах утечки адресов, устройств, профилей, и прочего, составит статистику
+9. https://kribrum.io/ — найдет удаленные публикации, в поле автор укажите юзернейм аккаунта
+10. https://webvetted.com/detect/social/twitter — найдет другие профили и ссылки, связанные с аккаунтом Twitter, даст анализ контента
+
+
+Поиск через URL
+
+1. https://twitter.com/intent/user?user_id=123456789 — найдет аккаунт в Twitter по ID, замените 123456789
+2. https://spoonbill.io/twitter/data/USERNAME/  — история изменения имени, био и прочих данных профиля, замените USERNAME на имя пользователя
+3. https://www.politwoops.com/p/*/USERNAME — удаленные твитты, работает с политиками, замените USERNAME на имя пользователя
+4. https://web.archive.org/web/*/twitter.com/12345789/* — найдет архив твитов, замените 12356789 на ID аккаунта или на имя пользователя
+5. https://lamentandotweets.com/USERNAME — найдет удалённые твиты, больше испанских аккаунтов, замените USERNAME на имя пользователя
+6. https://api.memory.lol/v1/tw/USERNAME — найдет историю изменения имени профиля, замените USERNAME на имя пользователя twitter
+7. https://twitter.com/USERNAME/lists/memberships — покажет в каких списках состоит пользователь, замените Username в ссылке на имя пользователя twitter
+
+
+Инструменты
+
+1. https://spoonbill.io/  — следит за изменениями имени, био, ссылками аккаунта, на него нужно подписаться в Twitter
+2. https://nitter.cz/ — просмотр профиля без регистрации, возможно работает только через VPN
+3. https://t.me/AximoBot — мгновенно сохранит новые публикации аккаунта в Telegram
+
+
+Поисковики
+
+1. https://nitter.domain.glass/ — поиск по любым данным в твитах пользователя
+2. https://twiangulate.com/search/  — поиск по любым данным в друзьях пользователя
+
+
+Парсеры
+
+1. https://phantombuster.com/automations/twitter/4130/twitter-follower-collector  — скачает всех подписчиков аккаунта
+2. https://tweetbeaver.com/ — скачает всех подписчиков, друзей, любимые посты и все историю аккаунта
+3. https://exportcomments.com/export-twitter-followers — скачает аккаунты на которые подписан пользователь
+
+
+Восстановление доступа
+
+1. https://twitter.com/account/begin_password_reset — даст часть почты и телефона

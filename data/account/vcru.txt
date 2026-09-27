@@ -1,0 +1,3 @@
+Для аккаунта vc.ru
+
+1. https://github.com/soxoj/socid_extractor — найдет user ID

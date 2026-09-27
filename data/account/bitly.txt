@@ -1,0 +1,28 @@
+Поиск по короткой ссылке Bit.ly
+
+Дополнительные методы
+
+1. Найти статистику и узнать исходную ссылку
+
+[1] Добавьте знак + в конце ссылки 
+
+2. Найти e-mail создателя
+
+[1] Откройте https://twitter.com/bitly и напишите в личных сообщениях следующий текст:
+
+Hello. I can't recover access to my account. 
+I tried password recovery but i don't get mail. 
+My email is randomemailhere@gmail.com. 
+i remember created link, it is bit[.]ly/example
+
+где randomemailhere@gmail.com замените на любой email адрес, а bit[.]ly/example на нужную ссылку bit.ly.
+
+Поддержка скажет, что email не привязан и попросит другой email адрес. 
+
+[2] Скажите что вы знаете только этот email и ссылку bit.ly
+
+Sorry, i remember only one email address and 
+one created link by this account. 
+I created http://bit[.]ly/example. Please send recovery mail.
+
+Вам ответят что ссылка на восстановление доступа была отправлена на такой-то email адрес. Этот email адрес привязан к аккаунту который создал эту короткую ссылку bit.ly.

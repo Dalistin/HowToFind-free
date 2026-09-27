@@ -1,0 +1,5 @@
+Поиск по аккаунту Stackoverflow
+
+1. https://github.com/soxoj/socid_extractor — найдет user ID и stack_exchange_uid
+2. https://cse.google.com/cse?cx=partner-pub-7396620608505330:xjbbr6-w0cu — найдет упоминания на сайте Stackoverflow
+3. https://msleziak.com/stackexchange/oldusernames — найдёт историю изменения имени пользователя, вставь ссылку на профиль в поле для ввода и нажми Lookup Names

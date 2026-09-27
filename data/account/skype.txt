@@ -1,0 +1,11 @@
+Поиск по аккаунту Skype
+
+1. http://mostwantedhf.info/skype2email.php — найдет почту
+2. https://webresolver.nl/ — найдет IP
+3. https://www.vedbex.com/tools/skype_resolver — найдет IP
+4. https://skypeipresolver.net/ — найдет IP, работает с VPN
+
+
+Поиск через URL
+
+1. https://avatar.skype.com/v1/avatars/USERNAME/public — фото аккаунта. Замените USERNAME на логин аккаунта
